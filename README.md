@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivanchang30
-- 👀 I’m interested in madou
+- 👀 I’m interested in madou 
 - 🌱 I’m currently learning yolo
 - 💞️ I’m looking to collaborate on object detection
 - 📫 How to reach me ...
