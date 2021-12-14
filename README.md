@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ivanchang30
-- 👀 I’m interested in algorithm
-- 🌱 I’m currently learning yolo
-- 💞️ I’m looking to collaborate on object detection
+- 👀 I’m interested in madou
 - 📫 How to reach me ...
 this is my e-mail:1654520169@qq.com
 
